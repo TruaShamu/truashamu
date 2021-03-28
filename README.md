@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome!
+Now pay up the visitors fee: One pound of jello...hmmm....ten pounds....no....your entire supply of jello!
+Mwahahaha!
 
+*cough cough*
+A little bit about me...I'm the most cutest and beloved orca ever...which is why I deserve all the jello and salmon in the world!
 <!--
 **TruaShamu/truashamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
