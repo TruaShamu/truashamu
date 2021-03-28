@@ -17,4 +17,7 @@ Okay, so a little bit about me...I'm the most cutest and beloved orca ever...whi
 
 Number of People Who Have Visited The Most Awesome-est Orca:
 
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
+
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
