@@ -22,5 +22,4 @@ Number of People Who Have Visited The Most Awesome-est Orca:
 
 [![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5xr5yadhpcatnns2rtx1cn0f2&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=5xr5yadhpcatnns2rtx1cn0f2&redirect=true)
 
