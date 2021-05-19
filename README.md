@@ -19,7 +19,7 @@ Okay, so a little bit about me...I'm the most cutest and beloved orca ever...whi
 
 
 <details>
-  <summary><b>Hey Look At Me, I'm Cool 🤣</b></summary>
+  <summary><b>Hey Look At Me, I'm So Kool 🤣</b></summary>
   <br>
   <div align="center">
     
