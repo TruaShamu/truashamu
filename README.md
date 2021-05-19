@@ -17,10 +17,6 @@ Mwahahaha!
 *cough cough*
 Okay, so a little bit about me...I'm the most cutest and beloved orca ever...which is why I deserve all the jello and salmon in the world!
 
-Number of People Who Have Visited The Most Awesome-est Orca:
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
 
 <details>
   <summary><b>Hey Look At Me, I'm Cool 🤣</b></summary>
@@ -31,3 +27,10 @@ Number of People Who Have Visited The Most Awesome-est Orca:
   
   </div>
 </details>
+
+--- 
+
+Number of People Who Have Visited The Most Awesome-est Orca:
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
