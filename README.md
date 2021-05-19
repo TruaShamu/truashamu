@@ -9,7 +9,7 @@
   </a>
  </p>
  
-### Welcome!
+### 🐋 Welcome!
 
 Now pay up the visitors fee: One pound of jello...hmmm....ten pounds....no....your entire supply of jello!
 Mwahahaha!
@@ -20,8 +20,14 @@ Okay, so a little bit about me...I'm the most cutest and beloved orca ever...whi
 Number of People Who Have Visited The Most Awesome-est Orca:
 
 
-
-
 [![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
 
-
+<details>
+  <summary><b>Hey Look At Me, I'm Cool 🤣</b></summary>
+  <br>
+  <div align="center">
+    
+![TruShu's GitHub stats](https://github-readme-stats.vercel.app/api?username=truashamu&show_icons=true&theme=algolia)
+  
+  </div>
+</details>
