@@ -1,7 +1,11 @@
 
 
 <p align="center">
+  <a href="https://orcapod.fandom.com/wiki/Category:Trua">
   <img src="https://i.ibb.co/M1GY0QJ/download.jpg" alt="Makki (not trutru because i can't find an image)"/>
+  </a>
+  
+ 
 </p>
 <p align="center">
   <a href="https://www.google.com/search?q=mango+jello&tbm=shop">
