@@ -43,7 +43,7 @@ Number of People Who Have Visited The Most Awesome-est Orca:
 
 Remember to update repos: (bleh)
 
-- Coursera Bootstrap
+- Coursera Bootstrap (done)
 - Usaco Training Pages
 - Usaco Sols
 - Codeforces
