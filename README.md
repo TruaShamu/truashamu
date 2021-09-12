@@ -40,10 +40,3 @@ Number of People Who Have Visited The Most Awesome-est Orca:
 [![Visits Badge](https://badges.pufler.dev/visits/TruaShamu/truashamu)](https://badges.pufler.dev)
 
 - - - - 
-
-Remember to update repos: (bleh)
-
-- Coursera Bootstrap (done)
-- Usaco Training Pages
-- Usaco Sols
-- Codeforces
