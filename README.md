@@ -1,4 +1,7 @@
-
+### ❄️ Happy Holidays!
+<p align="center">
+  <img src="https://49.media.tumblr.com/1274f9089de2e6418e6bada45badee3d/tumblr_mx6dxr4ya81rfjowdo1_500.gif"/>
+</p>
 
 <p align="center">
   <a href="https://orcapod.fandom.com/wiki/Category:Trua">
