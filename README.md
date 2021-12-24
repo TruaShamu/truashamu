@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://orcapod.fandom.com/wiki/Category:Trua">
-  <img src="https://i.ibb.co/WgCCdWH/happy-1.jpg" alt="Makki (not trutru because i can't find an image)"/>
+  <img src="https://i.ibb.co/KLCMF1z/happy-1.jpg" alt="Makki (not trutru because i can't find an image)"/>
   </a>
   
  
