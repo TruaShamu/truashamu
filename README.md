@@ -17,12 +17,6 @@
   </a>
  </p>
 
-<p align="center">
-   <a href="https://www.youtube.com/watch?v=VO6hmetmlMg">
-      ❄️ Every snowflake's different just like you ❄️
-  </a>
-</p>
-
 ### 🐋 Welcome!
 
 Now pay up the visitors fee: One pound of jello...hmmm....ten pounds....no....your entire supply of jello!
