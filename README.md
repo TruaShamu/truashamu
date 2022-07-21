@@ -1,21 +1,14 @@
-### ❄️ Happy Holidays!
-
-<p align="center">
-  <img src="https://49.media.tumblr.com/1274f9089de2e6418e6bada45badee3d/tumblr_mx6dxr4ya81rfjowdo1_500.gif"/>
-</p>
-
 <p align="center">
   <a href="https://orcapod.fandom.com/wiki/Category:Trua">
-  <img src="https://i.ibb.co/KLCMF1z/happy-1.jpg" alt="Makki (not trutru because i can't find an image)"/>
+  <img src="https://user-images.githubusercontent.com/48630514/180250756-f52b2539-98ee-4d10-8d4c-891ac117042c.png" alt="Trua the orca"/>
   </a>
-  
- 
 </p>
 <p align="center">
-  <a href="https://www.google.com/search?client=opera&q=christmas+jello&sourceid=opera&ie=UTF-8&oe=UTF-8">
-  <img src="https://dabuttonfactory.com/button.png?t=FEED+JELLO&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=14&bgt=unicolored&bgc=1cf2ad&bs=8&bc=3ed696&shs=8&shc=eee&sho=se" alt="Feed jello button" />
+  <a href="https://www.google.com/search?q=mango+jello">
+  <img src="https://user-images.githubusercontent.com/48630514/180252062-0a794f29-d748-4bf7-b442-cf773c22cd55.png" alt="Feed jello button" />
   </a>
  </p>
+
 
 ### 🐋 Welcome!
 
@@ -43,3 +36,4 @@ Number of People Who Have Visited The Most Awesome-est Orca:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truashamu.truashamu)
 
 - - - - 
+* Additional details coming soon for the feed jello button :)
