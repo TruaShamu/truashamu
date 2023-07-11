@@ -23,8 +23,7 @@ Okay, so a little bit about me...I'm the most cutest and beloved orca ever...whi
   <summary><b>Hey Look At Me, I'm So Kool 🤣</b></summary>
   <br>
   <div align="center">
-    
-![TruShu's GitHub stats](https://github-readme-stats.vercel.app/api?username=truashamu&show_icons=true&theme=algolia)
+    <img src="https://myreadme.vercel.app/api/embed/truashamu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
   </div>
 </details>
