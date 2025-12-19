@@ -17,22 +17,3 @@ Mwahahaha!
 
 *cough cough*
 Okay, so a little bit about me...I'm the most cutest and beloved orca ever...which is why I deserve all the jello and salmon in the world!
-
-
-<details>
-  <summary><b>Hey Look At Me, I'm So Kool 🤣</b></summary>
-  <br>
-  <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/truashamu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  
-  </div>
-</details>
-
---- 
-
-Number of People Who Have Visited The Most Awesome-est Orca:
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truashamu.truashamu)
-
-- - - - 
-* Additional details coming soon for the feed jello button :)
