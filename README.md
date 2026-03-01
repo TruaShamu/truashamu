@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./orca.png" width="100%" alt="Pixel orca banner" />
+  <img src="./orca.png" width="900" alt="Pixel orca banner" />
 </p>
 
 ---
