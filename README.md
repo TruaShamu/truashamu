@@ -20,7 +20,6 @@ building software and slopware // shamu on an adventure // jello enthusiast
 
 ### other links
 ```txt
-site      jello-whales.net
 discord   trua_shamu
 book club  https://discord.gg/maTw9DXTZw
 ```
